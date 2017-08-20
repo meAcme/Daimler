@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Daimler.iml" filepath="$PROJECT_DIR$/Daimler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MbafcProject/MbafcProject.iml" filepath="$PROJECT_DIR$/MbafcProject/MbafcProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mbafccomponent/mbafccomponent.iml" filepath="$PROJECT_DIR$/mbafccomponent/mbafccomponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mbafcsdk/mbafcsdk.iml" filepath="$PROJECT_DIR$/mbafcsdk/mbafcsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MbafcProject/testProject/testProject.iml" filepath="$PROJECT_DIR$/MbafcProject/testProject/testProject.iml" />
+    </modules>
+  </component>
+</project>
